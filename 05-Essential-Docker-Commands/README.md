@@ -3,6 +3,7 @@
 
 |     Commands                 |    Description                                  |
 | ------------------------------- | --------------------------------------------- |
+| docker images | List all images |
 | docker ps | List all running containers |
 | docker ps -a | List all containers stopped, running |
 | docker stop container-id | Stop the container which is running |
